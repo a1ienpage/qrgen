@@ -1,0 +1,20 @@
+{
+  "device": "iPhone 18 Pro Simulator, iOS 27.0",
+  "flutter": "3.47.2",
+  "build": "debug",
+  "method": "Isolated equivalent QR demos; 10 characters, 200 ms between changes; Flutter Timeline widget build events. Initial build excluded.",
+  "counts": {
+    "state": {
+      "RebuildDemo": 10,
+      "Preview": 10,
+      "SettingsPanel": 10,
+      "ValueListenableBuilder<String>": 0
+    },
+    "notifier": {
+      "RebuildDemo": 0,
+      "Preview": 10,
+      "SettingsPanel": 0,
+      "ValueListenableBuilder<String>": 10
+    }
+  }
+}
